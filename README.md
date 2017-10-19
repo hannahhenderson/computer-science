@@ -121,7 +121,7 @@ Both are required, but feel free to skip straight to the second course when CS50
 `basic HTML, CSS, JavaScript`
 `and more`
 
-X? | Courses | Duration | Effort | Prerequisites
+✓? | Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--: | :--:
 _ | [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) ([alt](https://cs50.harvard.edu/)) | 12 weeks | 10-20 hours/week | none
 _ | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 9 weeks | 15 hours/week | high school algebra
@@ -146,14 +146,14 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 `Ruby`
 `and more`
 
-X? | Courses | Duration | Effort | Prerequisites
+✓? | Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--: | :--:
 _ | [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | 7 weeks | 8-10 hours/week | none
 _ | [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | 6 weeks | 8-10 hours/week | How to Code: Simple Data
 _ | [Software Construction - Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x) | 6 weeks | 8-10 hours/week | How to Code - Complex Data
 _ | [Software Construction - Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x) | 6 weeks | 8-10 hours/week | Software Construction - Data Abstraction
-x | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 4 weeks | 8-16 hours/week | recommended: Java, C
-x | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 8-16 hours/week | Programming Languages, Part A
+✓ | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 4 weeks | 8-16 hours/week | recommended: Java, C
+✓ | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 8-16 hours/week | Programming Languages, Part A
 _ | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 8-16 hours/week | Programming Languages, Part B
 
 #### Readings
@@ -180,11 +180,11 @@ _ | [Programming Languages, Part C](https://www.coursera.org/learn/programming-l
 `discrete probability`
 `and more`
 
-X? | Courses | Duration | Effort | Prerequisites
+✓? | Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--: | :--:
 _ | [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) ([alt](http://ulaff.net/)) | 15 weeks | 8 hours/week | pre-calculus
-x | [Calculus One](https://www.coursera.org/learn/calculus1)<sup>*1*</sup> ([alt](https://mooculus.osu.edu/)) | 16 weeks | 8-10 hours/week | pre-calculus
-x | [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)| 7 weeks | 9-10 hours/week | Calculus One
+✓ | [Calculus One](https://www.coursera.org/learn/calculus1)<sup>*1*</sup> ([alt](https://mooculus.osu.edu/)) | 16 weeks | 8-10 hours/week | pre-calculus
+✓ | [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)| 7 weeks | 9-10 hours/week | Calculus One
 _ | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | 13 weeks | 5 hours/week | single variable calculus (Calculus Two)
 
 **<sup>1</sup> Note**: When you are enrolled, please see this
@@ -210,7 +210,7 @@ for how to progress through the course.
 `network protocols`
 `and more`
 
-X? | Courses | Duration | Effort | Prerequisites
+✓? | Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--: | :--:
 _ | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](http://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week | none
 _ | [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | From Nand to Tetris Part I
@@ -234,7 +234,7 @@ _ | [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/
 `NP-completeness`
 `and more`
 
-X? | Courses | Duration | Effort | Prerequisites
+✓? | Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--: | :--:
 _ | [Algorithms (1/4)](https://www.coursera.org/learn/algorithms-divide-conquer)<sup>1</sup> | 4 weeks | 4-8 hours/week | one programming language, proofs, probability
 _ | [Algorithms (2/4)](https://www.coursera.org/learn/algorithms-graphs-data-structures)<sup>1</sup> | 4 weeks | 4-8 hours/week | Algorithms (1/4)
@@ -269,7 +269,7 @@ In spite of what it looks like, **these courses are free to access**.
 `public key encryption`
 `and more`
 
-X? | Courses | Duration | Effort | Prerequisites
+✓? | Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--: | :--:
 _ | [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)| 12 weeks | 8-12 hours/week | some programming, basic CS
 _ | [Machine Learning](https://www.coursera.org/learn/machine-learning)| 11 weeks | 4-6 hours/week | linear algebra
@@ -301,7 +301,7 @@ If not, or if a student chooses not to take the Capstone, then a separate Final 
 `large-scale software architecture and design`
 `and more`
 
-X? | Courses | Duration | Effort | Prerequisites
+✓? | Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--: | :--:
 _ | [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)| 9 weeks | 6-8 hours/week | none
 _ | [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | 6 hours/week | Python, object-oriented programming
@@ -321,11 +321,11 @@ _ | [Software Architecture & Design](https://www.udacity.com/course/software-arc
 `probability theory`
 `and more`
 
-X? | Courses | Duration | Effort | Prerequisites
+✓? | Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--: | :--:
-x | [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 10 hours/week | pre-calculus
-x | [Calculus: Parametric Equations and Polar Coordinates](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/) | - | - | single-variable calculus (Calculus Two)
-x | [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | 13 weeks | 12 hours/week | Parametric Equations and Polar Coordinates
+✓ | [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 10 hours/week | pre-calculus
+✓ | [Calculus: Parametric Equations and Polar Coordinates](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/) | - | - | single-variable calculus (Calculus Two)
+✓ | [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | 13 weeks | 12 hours/week | Parametric Equations and Polar Coordinates
 ~ | [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | 18 weeks | 12 hours/week | Multivariable Calculus
 
 ### Advanced systems
@@ -346,7 +346,7 @@ x | [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-mul
 `system call interface`
 `and more`
 
-X? | Courses | Duration | Effort | Prerequisites
+✓? | Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--: | :--:
 _ | [Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0)<sup>1</sup> | 7 weeks | 8-10 hours/week | calculus, basic mechanics
 _ | [Electricity and Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0) | 7 weeks | 8-10 hours/week | Electricity and Magnetism, Part 1
@@ -380,7 +380,7 @@ If you are struggling, you can find a physics MOOC or utilize the materials from
 `game trees`
 `and more`
 
-X? | Courses | Duration | Effort | Prerequisites
+✓? | Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--: | :--:
 _ | [Introduction to Logic](https://www.coursera.org/learn/logic-introduction) | 10 weeks | 4-8 hours/week | set theory
 _ | [Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about) | 8 weeks | 10 hours/week | discrete mathematics, logic, algorithms
@@ -397,7 +397,7 @@ Depending on the course, you may be able to utilize the Capstone as your Final P
 Note that doing a Specialization with the Capstone at the end always costs money.
 So if you don't wish to spend money or use the Capstone as your Final, it may be possible to take the courses in the Specialization for free by manually searching for them, but not all allow this.
 
-X? | Courses | Duration | Effort | Prerequisites
+✓? | Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--: | :--:
 _ | [Robotics (Specialization)](https://www.coursera.org/specializations/robotics) | 26 weeks | 2-5 hours/week | linear algebra, calculus, programming, probability
 _ | [Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) | 30 weeks | 2-5 hours/week | machine learning
